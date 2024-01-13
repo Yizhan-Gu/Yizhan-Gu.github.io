@@ -12,12 +12,10 @@ Yizhan Gu is currently a PhD student in the Mechanical and Aerospace Engineering
 
 Education
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Born in Suzhou, China, Yizhan spent his junior and senior high time at [Suzhou High School of Jiangsu Province](https://www.szzx1000.cn). He took the place of Vice President of the Single Band Club and was a member of the table tennis team. 
+
+Yizhan with team members in the 2019 Suzhou teenager table tennis tournament: ![Yizhan with team members in 2019 Suzhou teenager table tennis tournament](tabletennis.png)
+Yizhan playing the guitar at the 2016 performance of Suzhou student rock bands: ![Yizhan playing the guitar at the 2016 performance of Suzhou student rock bands[(singlebed.png)
 
 Site-wide configuration
 ------
