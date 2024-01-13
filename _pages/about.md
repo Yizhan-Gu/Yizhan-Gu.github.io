@@ -23,7 +23,7 @@ Yizhan got his Bachelor of Engineering in Electrical Engineering and Automation 
 
 After graduating from HIT, Yizhan was admitted to UCSD in 2023 August, and joined the Center for Energy Research. He supported the charging flexibility research for [TotalEnergies](https://totalenergies.com) and the [UCSD DERConnect project](https://sites.google.com/ucsd.edu/derconnect/home). Currently, he is working on the optimization of Electric Vehicle charging problems, and applying forecasting techniques to controllers.
 
-Yizhan wearing graduation dress in front of Geisel Library:
+__Yizhan wearing graduation dress in front of Geisel Library:
 ![Yizhan wearing graduation dress in front of Geisel Library](/images/graduationdress.png)
 
 
