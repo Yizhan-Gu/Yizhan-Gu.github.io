@@ -6,8 +6,8 @@ main:
   - title: "Research Projects"
     url: /researchprojects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Courses Taken"
+    url: /coursestaken/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -15,8 +15,4 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
