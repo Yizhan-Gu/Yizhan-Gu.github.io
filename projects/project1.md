@@ -2,7 +2,7 @@
 title: "Programmable character generator"
 collection: projects
 type: "project"
-permalink: /talks/project1.md
+permalink: /p/project1.md
 venue: "Harbin Institute of Technology"
 date: 2021
 ---
